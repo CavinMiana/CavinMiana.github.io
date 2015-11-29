@@ -1,4 +1,4 @@
-var iAmOptions = ["Noah", "a developer", "a student", "creative"];
+var iAmOptions = ["CavinMiana", "a developer", "a student", "creative"];
 var iAmPos = 0;
 
 $(".button-collapse").sideNav();
